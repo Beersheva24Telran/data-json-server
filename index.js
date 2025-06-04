@@ -11,6 +11,7 @@ function getRandomEmployee() {
     res.department = getRandomDepartment();
     res.salary = faker.number.int({min:5000, max: 50000, multipleOf:100});
     res.avatar = getRandomAvatar(res.id, gender);
+    res.userId = "ADMIN"
     return res;
 }
 function getRandomBirthdate() {

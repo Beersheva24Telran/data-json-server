@@ -1,6 +1,6 @@
 const fs = require('fs');
-const { faker } = require("@faker-js/faker");
-faker.locale = 'he';
+const { fakerHE:faker } = require("@faker-js/faker");
+// faker.locale = 'he';
 const N_EMPLOYEES = 100
 function getRandomEmployee() {
     const gender = faker.helpers.arrayElement(["male","female"])
@@ -14,7 +14,7 @@ function getRandomEmployee() {
     return res;
 }
 function getRandomBirthdate() {
-    const birthDate = faker.date.birthdate({ min: 20, max: 65, mode: 'age' });
+    const birthDate = faker.date.birthdate({ min: 20, max: 70, mode: 'age' });
     return birthDate.toISOString().split('T')[0];
 }
 function getRandomDepartment() {

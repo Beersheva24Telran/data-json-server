@@ -1,0 +1,916 @@
+{
+  "employees": [
+    {
+      "id": "2f4fdba4-e5e3-4323-a6b1-94c00f15589d",
+      "birthDate": "1986-10-07",
+      "fullName": "אלרועי בר שלום",
+      "department": "Development",
+      "salary": 45700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2f4fdba4-e5e3-4323-a6b1-94c00f15589d&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "cc49067b-70b9-4435-86d6-28fb6db11a8d",
+      "birthDate": "1970-02-17",
+      "fullName": "אורלי אראל",
+      "department": "QA",
+      "salary": 25400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=cc49067b-70b9-4435-86d6-28fb6db11a8d&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "36d934c6-37f6-45b8-b838-5c97f03dc10d",
+      "birthDate": "2003-09-22",
+      "fullName": "אסיף הרפז",
+      "department": "Development",
+      "salary": 38300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=36d934c6-37f6-45b8-b838-5c97f03dc10d&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f43d6d25-6195-41b8-884b-ea6ce3d10360",
+      "birthDate": "1998-09-28",
+      "fullName": "דקל אתגר",
+      "department": "QA",
+      "salary": 15000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=f43d6d25-6195-41b8-884b-ea6ce3d10360&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "3e92ab54-d1e6-4b33-b46a-185364d223cd",
+      "birthDate": "1974-09-06",
+      "fullName": "פלג כהן",
+      "department": "Audit",
+      "salary": 13000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=3e92ab54-d1e6-4b33-b46a-185364d223cd&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7e4dbc30-188f-4931-bb30-b3cbf2d6590d",
+      "birthDate": "1993-07-15",
+      "fullName": "יסמין יונה",
+      "department": "Development",
+      "salary": 6700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7e4dbc30-188f-4931-bb30-b3cbf2d6590d&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "103dcc3e-48e9-48aa-b81d-9beda812990b",
+      "birthDate": "1968-09-12",
+      "fullName": "חושן אגמון",
+      "department": "Accounting",
+      "salary": 37800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=103dcc3e-48e9-48aa-b81d-9beda812990b&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c88320c3-e129-4486-a7e5-8c04a89b31bf",
+      "birthDate": "1997-03-21",
+      "fullName": "נהוראי שבת",
+      "department": "Audit",
+      "salary": 15900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c88320c3-e129-4486-a7e5-8c04a89b31bf&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c31beb5c-3a69-4cf4-8fff-01c29fb3dcd7",
+      "birthDate": "1985-04-26",
+      "fullName": "ריטה בבלי",
+      "department": "Audit",
+      "salary": 9200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c31beb5c-3a69-4cf4-8fff-01c29fb3dcd7&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "47c92109-ad8c-4f76-a02c-a98c28736756",
+      "birthDate": "1981-10-28",
+      "fullName": "שרית בן מאיר",
+      "department": "QA",
+      "salary": 24500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=47c92109-ad8c-4f76-a02c-a98c28736756&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "98b6c262-305f-44ba-8961-9477cc219c28",
+      "birthDate": "1967-10-30",
+      "fullName": "רוית בן נר",
+      "department": "Accounting",
+      "salary": 44100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=98b6c262-305f-44ba-8961-9477cc219c28&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f9d3cf00-893c-41c5-89dd-848ae836cb1a",
+      "birthDate": "2003-11-25",
+      "fullName": "ג'וי ברהלל",
+      "department": "QA",
+      "salary": 15300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=f9d3cf00-893c-41c5-89dd-848ae836cb1a&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "c1d92be1-1124-4ef1-83d8-496fda2f18d2",
+      "birthDate": "1970-03-13",
+      "fullName": "עדי אמית",
+      "department": "QA",
+      "salary": 8900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c1d92be1-1124-4ef1-83d8-496fda2f18d2&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "8ccc04ee-92a9-4e05-b094-98a701b423c0",
+      "birthDate": "1962-07-08",
+      "fullName": "סול תל צור",
+      "department": "Development",
+      "salary": 42400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=8ccc04ee-92a9-4e05-b094-98a701b423c0&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "9a9ad601-47f3-4c4a-a4b4-0332b99acc72",
+      "birthDate": "1965-07-15",
+      "fullName": "ד\"ר רז תאומים",
+      "department": "Management",
+      "salary": 29900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=9a9ad601-47f3-4c4a-a4b4-0332b99acc72&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "69aa57e7-c990-4257-9ace-b125bac34452",
+      "birthDate": "1997-10-29",
+      "fullName": "אלישבע סבוראי",
+      "department": "Audit",
+      "salary": 22600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=69aa57e7-c990-4257-9ace-b125bac34452&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "1fef206b-7164-483f-9184-2b26bd26a0df",
+      "birthDate": "1982-02-03",
+      "fullName": "אסף שובל",
+      "department": "Audit",
+      "salary": 48800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1fef206b-7164-483f-9184-2b26bd26a0df&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "d63c1bc7-7e84-40fe-8fff-d6067214c15f",
+      "birthDate": "1987-08-09",
+      "fullName": "שרון ברזילי",
+      "department": "Development",
+      "salary": 39900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=d63c1bc7-7e84-40fe-8fff-d6067214c15f&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "035e1cdf-7d74-4267-a44f-c859a67bb4e0",
+      "birthDate": "1965-02-04",
+      "fullName": "יסמין בן מאיר",
+      "department": "Development",
+      "salary": 49000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=035e1cdf-7d74-4267-a44f-c859a67bb4e0&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "1902ae02-a96c-4104-afc3-794e9f870caa",
+      "birthDate": "1967-07-19",
+      "fullName": "ליאל פת",
+      "department": "Management",
+      "salary": 46000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1902ae02-a96c-4104-afc3-794e9f870caa&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "6e333a0b-afe1-40c1-b2c3-be3c729a0d92",
+      "birthDate": "1964-07-14",
+      "fullName": "מאור בר שלום",
+      "department": "Management",
+      "salary": 43500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=6e333a0b-afe1-40c1-b2c3-be3c729a0d92&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e00387e6-2ce3-4f01-932d-4699727ba5c7",
+      "birthDate": "1960-05-16",
+      "fullName": "גברת לירז אשור",
+      "department": "Management",
+      "salary": 23700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=e00387e6-2ce3-4f01-932d-4699727ba5c7&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e31c11ca-48fa-4f0b-9947-8634dd582cc3",
+      "birthDate": "1974-09-05",
+      "fullName": "יפתח לחמן",
+      "department": "Management",
+      "salary": 36200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=e31c11ca-48fa-4f0b-9947-8634dd582cc3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a36ac691-4fdc-4667-86b3-7ae83cb47991",
+      "birthDate": "1994-10-29",
+      "fullName": "אגם עמירן",
+      "department": "QA",
+      "salary": 30300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=a36ac691-4fdc-4667-86b3-7ae83cb47991&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "22834ead-0210-4741-a073-e3a1e46beaba",
+      "birthDate": "1955-05-12",
+      "fullName": "רינת נסים",
+      "department": "Management",
+      "salary": 32300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=22834ead-0210-4741-a073-e3a1e46beaba&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "d64b4d1e-8da0-4c2f-8cdb-104e33eca7ee",
+      "birthDate": "2002-02-01",
+      "fullName": "אביה אופק",
+      "department": "Management",
+      "salary": 26700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=d64b4d1e-8da0-4c2f-8cdb-104e33eca7ee&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "803cd99a-9c6a-4611-a27e-54dd914242fc",
+      "birthDate": "1983-07-31",
+      "fullName": "אן יגור",
+      "department": "Development",
+      "salary": 29200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=803cd99a-9c6a-4611-a27e-54dd914242fc&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b5750ba0-b115-41f7-8c16-84fc3f4df55e",
+      "birthDate": "1955-08-03",
+      "fullName": "ד\"ר ליזה אביעד",
+      "department": "Management",
+      "salary": 22700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=b5750ba0-b115-41f7-8c16-84fc3f4df55e&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "6ee58c34-cb3b-4524-a096-a1799b9c94f5",
+      "birthDate": "1999-05-28",
+      "fullName": "גל אבנון",
+      "department": "Accounting",
+      "salary": 45300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=6ee58c34-cb3b-4524-a096-a1799b9c94f5&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "5ac04adb-5062-49bb-a5fc-ea871e0d8779",
+      "birthDate": "1999-07-27",
+      "fullName": "ד\"ר אן אשכול",
+      "department": "Development",
+      "salary": 38300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=5ac04adb-5062-49bb-a5fc-ea871e0d8779&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "ad330f4d-aee5-48e2-a2cf-579b329c222c",
+      "birthDate": "2003-01-04",
+      "fullName": "הודיה ברק",
+      "department": "QA",
+      "salary": 46900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ad330f4d-aee5-48e2-a2cf-579b329c222c&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "4929d4c3-a8f4-480e-9b28-5de504bf0f39",
+      "birthDate": "1975-05-13",
+      "fullName": "מגי יפה",
+      "department": "Accounting",
+      "salary": 38900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=4929d4c3-a8f4-480e-9b28-5de504bf0f39&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "9ed7a45f-c97b-475d-b664-807eb32af82d",
+      "birthDate": "1971-08-22",
+      "fullName": "טל מלכה",
+      "department": "Management",
+      "salary": 44800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=9ed7a45f-c97b-475d-b664-807eb32af82d&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "600679fe-c0dd-4027-be7c-422251981ca2",
+      "birthDate": "1980-05-08",
+      "fullName": "עו\"ד ענבר גרינבלט",
+      "department": "Development",
+      "salary": 25100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=600679fe-c0dd-4027-be7c-422251981ca2&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "72f5fe46-c77f-4d35-b7e4-f065baafba95",
+      "birthDate": "1968-12-18",
+      "fullName": "שני בן ארצי",
+      "department": "Management",
+      "salary": 50000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=72f5fe46-c77f-4d35-b7e4-f065baafba95&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a58b135c-b66b-437c-8462-fc68343f312e",
+      "birthDate": "2002-12-11",
+      "fullName": "יפה בן סירה",
+      "department": "Accounting",
+      "salary": 32800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=a58b135c-b66b-437c-8462-fc68343f312e&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a56ab294-db98-4f8d-8145-247a2e1d8a36",
+      "birthDate": "1958-10-07",
+      "fullName": "מר אופק ירושלמי",
+      "department": "Accounting",
+      "salary": 23200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=a56ab294-db98-4f8d-8145-247a2e1d8a36&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "745443e1-2939-4da5-9232-46efe0bca1bc",
+      "birthDate": "1965-01-05",
+      "fullName": "שיראל נוריאל",
+      "department": "QA",
+      "salary": 30300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=745443e1-2939-4da5-9232-46efe0bca1bc&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "70a634e7-1dae-4b17-89b7-40c83facfddf",
+      "birthDate": "2001-06-04",
+      "fullName": "שמואל אבני",
+      "department": "Management",
+      "salary": 49600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=70a634e7-1dae-4b17-89b7-40c83facfddf&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "48ea8e2e-a9eb-43d8-8199-f297c3fcf965",
+      "birthDate": "1976-08-27",
+      "fullName": "'פרופ שחף שלג",
+      "department": "QA",
+      "salary": 18700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=48ea8e2e-a9eb-43d8-8199-f297c3fcf965&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7320db87-8969-4847-929f-04f358935d68",
+      "birthDate": "1988-07-08",
+      "fullName": "גוני נוימרק",
+      "department": "Accounting",
+      "salary": 28600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7320db87-8969-4847-929f-04f358935d68&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "66c59bae-e685-4d84-b3b0-125345f10ed9",
+      "birthDate": "1995-12-02",
+      "fullName": "גולן בן צור",
+      "department": "Accounting",
+      "salary": 21100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=66c59bae-e685-4d84-b3b0-125345f10ed9&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7765aaaa-090b-4d85-a56e-9752e9105f45",
+      "birthDate": "1958-10-24",
+      "fullName": "רון פדהצור",
+      "department": "QA",
+      "salary": 30300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7765aaaa-090b-4d85-a56e-9752e9105f45&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "8c71e764-298e-476a-aa4c-a04c648171c6",
+      "birthDate": "2004-03-18",
+      "fullName": "נתנאל כנען",
+      "department": "QA",
+      "salary": 23000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=8c71e764-298e-476a-aa4c-a04c648171c6&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "55550c15-bf8d-4638-a3aa-e5361dab296d",
+      "birthDate": "1997-06-09",
+      "fullName": "אורית מרגלית",
+      "department": "Audit",
+      "salary": 14700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=55550c15-bf8d-4638-a3aa-e5361dab296d&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "849be98c-81c9-45b0-abd6-06c4e9251e59",
+      "birthDate": "1960-02-22",
+      "fullName": "אריאל תקווה",
+      "department": "QA",
+      "salary": 23500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=849be98c-81c9-45b0-abd6-06c4e9251e59&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "2b3cabfd-7313-44ce-b6b5-2f328c1ff512",
+      "birthDate": "1955-11-17",
+      "fullName": "אביב ברוש",
+      "department": "Audit",
+      "salary": 17500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2b3cabfd-7313-44ce-b6b5-2f328c1ff512&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "0ce54121-fd4c-48bf-b9ec-66c9dd13a1e5",
+      "birthDate": "1955-06-17",
+      "fullName": "אליהו בן שלום",
+      "department": "Development",
+      "salary": 26800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=0ce54121-fd4c-48bf-b9ec-66c9dd13a1e5&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7f2424fd-fb63-404c-9f3f-ceff92e4d508",
+      "birthDate": "1955-04-15",
+      "fullName": "תכלת גמליאל",
+      "department": "Development",
+      "salary": 35100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7f2424fd-fb63-404c-9f3f-ceff92e4d508&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "3cd05645-4135-4928-b122-b5fc463e47f5",
+      "birthDate": "1961-02-16",
+      "fullName": "נטלי יצחק",
+      "department": "Accounting",
+      "salary": 36400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=3cd05645-4135-4928-b122-b5fc463e47f5&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a2626b86-d75d-4d46-b9ee-8a81e1f604b7",
+      "birthDate": "1979-01-16",
+      "fullName": "עו\"ד מיטל סתיו",
+      "department": "Audit",
+      "salary": 27200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=a2626b86-d75d-4d46-b9ee-8a81e1f604b7&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "70b06c1c-ce88-453e-8d8f-a6b655a86ced",
+      "birthDate": "1974-04-13",
+      "fullName": "אלימלך חת",
+      "department": "Audit",
+      "salary": 42600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=70b06c1c-ce88-453e-8d8f-a6b655a86ced&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "012d5b65-f73f-47d6-a13d-bae731fd6759",
+      "birthDate": "1989-08-08",
+      "fullName": "ליאור דניאלי",
+      "department": "Management",
+      "salary": 49900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=012d5b65-f73f-47d6-a13d-bae731fd6759&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7aa38866-4f4d-45bd-b9a2-09922085ab54",
+      "birthDate": "1968-12-15",
+      "fullName": "טופז עזריה",
+      "department": "Accounting",
+      "salary": 6000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7aa38866-4f4d-45bd-b9a2-09922085ab54&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "73b99f19-6c62-425f-b9d4-9079a2982881",
+      "birthDate": "1977-07-09",
+      "fullName": "תבור מאיר",
+      "department": "Management",
+      "salary": 18500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=73b99f19-6c62-425f-b9d4-9079a2982881&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "9892a08a-e775-43ff-ae54-0d6601396dd4",
+      "birthDate": "1978-01-15",
+      "fullName": "אלכס שביב",
+      "department": "Development",
+      "salary": 27500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=9892a08a-e775-43ff-ae54-0d6601396dd4&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "03a224f5-3eb9-430d-b665-6e2af098dc57",
+      "birthDate": "1996-09-26",
+      "fullName": "חמי בשן",
+      "department": "Management",
+      "salary": 26900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=03a224f5-3eb9-430d-b665-6e2af098dc57&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "444d44e2-81d0-4195-9813-579ed858e672",
+      "birthDate": "1957-01-04",
+      "fullName": "יהב ידיד",
+      "department": "Management",
+      "salary": 39500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=444d44e2-81d0-4195-9813-579ed858e672&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "1692d879-d9c0-4e48-8646-a8a7ed5a3c2b",
+      "birthDate": "1958-09-20",
+      "fullName": "אביגדור סתיו",
+      "department": "Accounting",
+      "salary": 40300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1692d879-d9c0-4e48-8646-a8a7ed5a3c2b&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "1296c432-872a-4c09-89b3-6989bf3bf506",
+      "birthDate": "2001-09-20",
+      "fullName": "מאי גידור",
+      "department": "Audit",
+      "salary": 15400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=1296c432-872a-4c09-89b3-6989bf3bf506&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "94f561ad-12ea-47f0-99ba-ea484816d74b",
+      "birthDate": "1965-07-21",
+      "fullName": "בניה ב׳׳ק",
+      "department": "Management",
+      "salary": 30900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=94f561ad-12ea-47f0-99ba-ea484816d74b&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "afbe5c47-64ab-4548-ba9b-97d48e84d0ba",
+      "birthDate": "1983-02-04",
+      "fullName": "אירית חלד",
+      "department": "Development",
+      "salary": 39600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=afbe5c47-64ab-4548-ba9b-97d48e84d0ba&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "9bce03a6-08ba-4d00-9ab4-52f8b707175c",
+      "birthDate": "2001-07-09",
+      "fullName": "סיגלית אבישי",
+      "department": "Management",
+      "salary": 18500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=9bce03a6-08ba-4d00-9ab4-52f8b707175c&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "78821ba4-f851-4dfb-917a-7ad8f94a973f",
+      "birthDate": "1982-03-23",
+      "fullName": "אביעד רביב",
+      "department": "Accounting",
+      "salary": 23200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=78821ba4-f851-4dfb-917a-7ad8f94a973f&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "5f59d9ff-3872-4d53-bcce-816f3ea5d91d",
+      "birthDate": "1980-05-31",
+      "fullName": "יעל מורשת",
+      "department": "Development",
+      "salary": 6400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=5f59d9ff-3872-4d53-bcce-816f3ea5d91d&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "88000a2a-008f-4074-a80c-f808359becd3",
+      "birthDate": "1956-10-16",
+      "fullName": "ליאל אגוז",
+      "department": "Development",
+      "salary": 42500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=88000a2a-008f-4074-a80c-f808359becd3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "58d9f9a6-adaa-42ea-816a-1ab774b57bb3",
+      "birthDate": "1973-06-09",
+      "fullName": "הלל אוריין",
+      "department": "QA",
+      "salary": 46700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=58d9f9a6-adaa-42ea-816a-1ab774b57bb3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "04af07f2-9d27-487e-a910-7084c7975d18",
+      "birthDate": "1985-06-24",
+      "fullName": "אלכסנדר מעיין",
+      "department": "Audit",
+      "salary": 21100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=04af07f2-9d27-487e-a910-7084c7975d18&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "036855d8-6667-46a6-b525-36b0a5d117f3",
+      "birthDate": "1985-06-10",
+      "fullName": "חנוך הנגבי",
+      "department": "Management",
+      "salary": 29200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=036855d8-6667-46a6-b525-36b0a5d117f3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "e19fed84-2d9e-469a-b1f8-ecd93fa75a53",
+      "birthDate": "1995-08-28",
+      "fullName": "איתמר שלם",
+      "department": "Development",
+      "salary": 48200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=e19fed84-2d9e-469a-b1f8-ecd93fa75a53&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "96e3b0e5-0643-4df8-bbbb-ba7de9021f13",
+      "birthDate": "1997-10-23",
+      "fullName": "שמואל אלדן",
+      "department": "QA",
+      "salary": 21700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=96e3b0e5-0643-4df8-bbbb-ba7de9021f13&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "bbc857e5-b523-4b7e-9e23-c93b8865f726",
+      "birthDate": "1963-09-20",
+      "fullName": "אדר מרגנית",
+      "department": "Management",
+      "salary": 35500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=bbc857e5-b523-4b7e-9e23-c93b8865f726&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "524c90cd-5464-4ec8-9385-5158cf81f12c",
+      "birthDate": "1981-12-28",
+      "fullName": "רם בנאי",
+      "department": "Development",
+      "salary": 25400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=524c90cd-5464-4ec8-9385-5158cf81f12c&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b4619290-78dd-43d4-8e44-9cc3a893f848",
+      "birthDate": "1980-04-20",
+      "fullName": "בארי גבתון",
+      "department": "Development",
+      "salary": 8500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=b4619290-78dd-43d4-8e44-9cc3a893f848&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "3f055b98-3790-4a94-94e7-dcf4cc2d6fc0",
+      "birthDate": "1975-03-22",
+      "fullName": "שוהם בן ישראל",
+      "department": "Accounting",
+      "salary": 13900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=3f055b98-3790-4a94-94e7-dcf4cc2d6fc0&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "ead73bb1-9d7d-4c9c-93c2-e72d091124c7",
+      "birthDate": "1984-12-03",
+      "fullName": "הודיה איילון",
+      "department": "Development",
+      "salary": 43300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ead73bb1-9d7d-4c9c-93c2-e72d091124c7&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b1533d36-4996-46f5-8c8d-48dbb991192e",
+      "birthDate": "1958-08-15",
+      "fullName": "נטע בן יצחק",
+      "department": "Management",
+      "salary": 11400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=b1533d36-4996-46f5-8c8d-48dbb991192e&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "17f2ff8c-4221-4e69-bc94-3e4af792c07c",
+      "birthDate": "1999-03-16",
+      "fullName": "אמונה עזריאל",
+      "department": "QA",
+      "salary": 43100,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=17f2ff8c-4221-4e69-bc94-3e4af792c07c&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "4ccb846f-388e-427a-a226-c6ae154060a6",
+      "birthDate": "1998-02-28",
+      "fullName": "בועז רווה",
+      "department": "Accounting",
+      "salary": 43000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=4ccb846f-388e-427a-a226-c6ae154060a6&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "184be0fc-d39b-4a77-b4e7-60e39daec587",
+      "birthDate": "1990-11-07",
+      "fullName": "קרן נבון",
+      "department": "Audit",
+      "salary": 28300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=184be0fc-d39b-4a77-b4e7-60e39daec587&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "802ba63b-9877-4c96-ab65-c8c63e4b1d62",
+      "birthDate": "1989-08-24",
+      "fullName": "מיכאל גורן",
+      "department": "Accounting",
+      "salary": 45500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=802ba63b-9877-4c96-ab65-c8c63e4b1d62&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "5048a3bc-bc16-4a60-9465-597af173bd46",
+      "birthDate": "1973-06-27",
+      "fullName": "ניקולס צוריאל",
+      "department": "Development",
+      "salary": 37800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=5048a3bc-bc16-4a60-9465-597af173bd46&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "7c08f5ac-d5bd-40fc-9e4c-88c5f5579097",
+      "birthDate": "1975-09-30",
+      "fullName": "מתנה מרגלית",
+      "department": "QA",
+      "salary": 27900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=7c08f5ac-d5bd-40fc-9e4c-88c5f5579097&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f069ea7b-a581-44a3-af7e-fbda575e9878",
+      "birthDate": "1987-01-20",
+      "fullName": "פלא הדס",
+      "department": "Audit",
+      "salary": 48700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=f069ea7b-a581-44a3-af7e-fbda575e9878&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "dace8058-620a-43d6-9c86-af98afdbea6f",
+      "birthDate": "2003-11-11",
+      "fullName": "תומר אלמגור",
+      "department": "Management",
+      "salary": 30800,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=dace8058-620a-43d6-9c86-af98afdbea6f&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "81c7a129-c00f-4d2f-8cba-abd002b89a80",
+      "birthDate": "2002-04-26",
+      "fullName": "גיל יניב",
+      "department": "Accounting",
+      "salary": 23900,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=81c7a129-c00f-4d2f-8cba-abd002b89a80&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "44509f03-b821-46c1-969d-b0b7559ea9e3",
+      "birthDate": "1987-05-13",
+      "fullName": "גלבוע שחף",
+      "department": "Development",
+      "salary": 29000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=44509f03-b821-46c1-969d-b0b7559ea9e3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "0910c055-92d3-4529-b4d8-9abbb8cdd5fe",
+      "birthDate": "1965-01-14",
+      "fullName": "תאיר איתם",
+      "department": "Management",
+      "salary": 47400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=0910c055-92d3-4529-b4d8-9abbb8cdd5fe&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "a85570ad-ed56-4004-8d96-8dde03f2af9a",
+      "birthDate": "2003-08-16",
+      "fullName": "דוד מיכה",
+      "department": "Audit",
+      "salary": 47700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=a85570ad-ed56-4004-8d96-8dde03f2af9a&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "b577c8f9-5f65-4297-af0a-ba8c06e1dc2c",
+      "birthDate": "1957-06-24",
+      "fullName": "ד\"ר אלכס אבן חן",
+      "department": "Development",
+      "salary": 13600,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=b577c8f9-5f65-4297-af0a-ba8c06e1dc2c&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "25ca1088-9112-4922-8e27-77d70dd6b39b",
+      "birthDate": "1971-06-26",
+      "fullName": "ליאון אורון",
+      "department": "Development",
+      "salary": 29500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=25ca1088-9112-4922-8e27-77d70dd6b39b&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "ec467a51-725c-4374-8a90-a2f1bf68d93f",
+      "birthDate": "1976-11-01",
+      "fullName": "הודיה צורף",
+      "department": "Management",
+      "salary": 6700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ec467a51-725c-4374-8a90-a2f1bf68d93f&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "04d793ea-3253-4da2-a59c-8717af669616",
+      "birthDate": "1980-12-19",
+      "fullName": "ענהאל חרותי",
+      "department": "Management",
+      "salary": 49300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=04d793ea-3253-4da2-a59c-8717af669616&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "df9f08d0-2ee7-49a8-bddc-42b0e3ac680a",
+      "birthDate": "1958-06-07",
+      "fullName": "דניאלה שושן",
+      "department": "Development",
+      "salary": 29700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=df9f08d0-2ee7-49a8-bddc-42b0e3ac680a&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "454c5673-5f66-42b1-ba0f-dfe5941aedb2",
+      "birthDate": "1959-07-10",
+      "fullName": "יודפת מאיר",
+      "department": "QA",
+      "salary": 29500,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=454c5673-5f66-42b1-ba0f-dfe5941aedb2&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "663a307c-fa18-437e-809d-dd4ae35d0615",
+      "birthDate": "1959-04-03",
+      "fullName": "ניצן אדמון",
+      "department": "Audit",
+      "salary": 9400,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=663a307c-fa18-437e-809d-dd4ae35d0615&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "2dbd1a86-7eb2-473a-8569-8af968c920a3",
+      "birthDate": "1993-05-01",
+      "fullName": "סתיו גונן",
+      "department": "Audit",
+      "salary": 30000,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2dbd1a86-7eb2-473a-8569-8af968c920a3&gender=male",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "3968c98f-da88-4a3f-a03a-d55b38172519",
+      "birthDate": "1957-12-23",
+      "fullName": "טופז ברקת",
+      "department": "Management",
+      "salary": 11200,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=3968c98f-da88-4a3f-a03a-d55b38172519&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "f46bd8b3-9905-4b6d-a65d-32e90731e847",
+      "birthDate": "1992-09-12",
+      "fullName": "יסמין פניני",
+      "department": "Audit",
+      "salary": 14700,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=f46bd8b3-9905-4b6d-a65d-32e90731e847&gender=female",
+      "userId": "ADMIN"
+    },
+    {
+      "id": "0ef9a3b0-38ae-4af5-9bea-94c2423a6523",
+      "birthDate": "1965-02-04",
+      "fullName": "דפנה מאירי",
+      "department": "QA",
+      "salary": 27300,
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=0ef9a3b0-38ae-4af5-9bea-94c2423a6523&gender=female",
+      "userId": "ADMIN"
+    }
+  ],
+  "users": [
+    {
+      "email":"user@tel-ran.com",
+      "password":"$2a$10$Mdab6.0BSfzCYZ/JVXcAeeHDXlFGX6n0ZtxT930HrErpXuWdmbB9u",
+      "userId":"USER"
+  },
+  {
+    "email": "admin@tel-ran.com",
+    "password":"$2a$10$BFg55cPi/6GZC.U8nxXtLerlKeFBY79eza/FqWqw/bvP1MbssDUtq",
+    "userId":"ADMIN"
+  }
+  ]
+}

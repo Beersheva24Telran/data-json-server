@@ -1,24 +1,6 @@
 {
   "employees": [
     {
-      "id": "2f4fdba4-e5e3-4323-a6b1-94c00f15589d",
-      "birthDate": "1986-10-07",
-      "fullName": "אלרועי בר שלום",
-      "department": "Development",
-      "salary": 45700,
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=2f4fdba4-e5e3-4323-a6b1-94c00f15589d&gender=male",
-      "userId": "ADMIN"
-    },
-    {
-      "id": "cc49067b-70b9-4435-86d6-28fb6db11a8d",
-      "birthDate": "1970-02-17",
-      "fullName": "אורלי אראל",
-      "department": "QA",
-      "salary": 25400,
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=cc49067b-70b9-4435-86d6-28fb6db11a8d&gender=female",
-      "userId": "ADMIN"
-    },
-    {
       "id": "36d934c6-37f6-45b8-b838-5c97f03dc10d",
       "birthDate": "2003-09-22",
       "fullName": "אסיף הרפז",
@@ -899,18 +881,26 @@
       "salary": 27300,
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=0ef9a3b0-38ae-4af5-9bea-94c2423a6523&gender=female",
       "userId": "ADMIN"
+    },
+    {
+      "department": "Audit",
+      "fullName": "יורי גרנובסקי",
+      "birthDate": "2005-01-01",
+      "salary": 10000,
+      "userId": "ADMIN",
+      "id": "QbCeQo_"
     }
   ],
   "users": [
     {
-      "email":"user@tel-ran.com",
-      "password":"$2a$10$Mdab6.0BSfzCYZ/JVXcAeeHDXlFGX6n0ZtxT930HrErpXuWdmbB9u",
-      "userId":"USER"
-  },
-  {
-    "email": "admin@tel-ran.com",
-    "password":"$2a$10$BFg55cPi/6GZC.U8nxXtLerlKeFBY79eza/FqWqw/bvP1MbssDUtq",
-    "userId":"ADMIN"
-  }
+      "email": "user@tel-ran.com",
+      "password": "$2a$10$Mdab6.0BSfzCYZ/JVXcAeeHDXlFGX6n0ZtxT930HrErpXuWdmbB9u",
+      "id": "USER"
+    },
+    {
+      "email": "admin@tel-ran.com",
+      "password": "$2a$10$BFg55cPi/6GZC.U8nxXtLerlKeFBY79eza/FqWqw/bvP1MbssDUtq",
+      "id": "ADMIN"
+    }
   ]
 }
